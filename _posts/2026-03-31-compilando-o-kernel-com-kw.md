@@ -49,7 +49,7 @@ Ledo engano.
 
 Na semana seguinte fui tentar fazer a conexão por `ssh` e não consegui. Agora a `libvirt` não indicava mais nenhum IP associado com a VM. Tentamos até mesmo conectar em todos os endereços IP da forma 192.168.122.XXX de 1 a 255, pela possibilidade de algum estar associado a VM e a `libvirt` só não o mostrava, mas sem sucesso. Após mais algumas investigações foi concluído que não tinha mais como conectar-se à VM, mesmo com ela estando inicializada.
 
-A teoria então foi que a VM havia sido corrompida de alguma forma e o que restava seria apagar a imagem do kernel e refazer o *Tutorial 1* com uma nova imagem.
+A teoria então foi que a VM havia sido corrompida de alguma forma e o que restava seria apagar a imagem do kernel e refazer o **Tutorial 1** com uma nova imagem.
 
 ## Conclusão
 
