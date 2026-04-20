@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Ulisses Paixão # the main title
 
-tagline: Blog da minha experiência em projetos de extensão  # it will display as the subtitle
+#tagline: Página da minha experiência em projetos   # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
